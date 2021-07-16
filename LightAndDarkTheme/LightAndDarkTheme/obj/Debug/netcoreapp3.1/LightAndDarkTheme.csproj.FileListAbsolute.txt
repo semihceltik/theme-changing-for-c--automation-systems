@@ -1,0 +1,15 @@
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\bin\Debug\netcoreapp3.1\LightAndDarkTheme.exe
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\bin\Debug\netcoreapp3.1\LightAndDarkTheme.deps.json
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\bin\Debug\netcoreapp3.1\LightAndDarkTheme.runtimeconfig.json
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\bin\Debug\netcoreapp3.1\LightAndDarkTheme.runtimeconfig.dev.json
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\bin\Debug\netcoreapp3.1\LightAndDarkTheme.dll
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\bin\Debug\netcoreapp3.1\LightAndDarkTheme.pdb
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\obj\Debug\netcoreapp3.1\LightAndDarkTheme.csproj.AssemblyReference.cache
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\obj\Debug\netcoreapp3.1\LightAndDarkTheme.Form1.resources
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\obj\Debug\netcoreapp3.1\LightAndDarkTheme.csproj.GenerateResource.cache
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\obj\Debug\netcoreapp3.1\LightAndDarkTheme.AssemblyInfoInputs.cache
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\obj\Debug\netcoreapp3.1\LightAndDarkTheme.AssemblyInfo.cs
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\obj\Debug\netcoreapp3.1\LightAndDarkTheme.csproj.CoreCompileInputs.cache
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\obj\Debug\netcoreapp3.1\LightAndDarkTheme.dll
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\obj\Debug\netcoreapp3.1\LightAndDarkTheme.pdb
+C:\Users\swmih\source\repos\LightAndDarkTheme\LightAndDarkTheme\obj\Debug\netcoreapp3.1\LightAndDarkTheme.genruntimeconfig.cache
